@@ -46,4 +46,5 @@ let HidderFairy = new Girls("HidderFairy", 18, "Yes", "Black");
 HidderFairy.girlMoreInfo();
 
 
+
 console.log("Boys and Girls both Inheritating The HumanBeing Class ❤")
